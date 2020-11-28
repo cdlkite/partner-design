@@ -1,4 +1,4 @@
-package org.cdl.partner.adapter;
+package org.cdl.partner.adapter.demo;
 
 /**
  * 圆钉 标准类、不能被改变

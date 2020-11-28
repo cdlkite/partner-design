@@ -1,4 +1,4 @@
-package org.cdl.partner.adapter;
+package org.cdl.partner.adapter.demo;
 
 /***
  * 适配器是一种结构型设计模式， 它能使不兼容的对象能够相互合作。
@@ -8,6 +8,7 @@ package org.cdl.partner.adapter;
  *
  * 举例：客户的手机，手机端的接口是标准，不能被改变的，而世界各地的插头是不一样的，适配器的作用就是适配世界各地的插头，适配器类会有多个实现。
  *
+ *  在适配器模式中可以定义一个包装类，包装不兼容接口的对象，这个包装类指的就是适配器(Adapter)，它所包装的对象就是适配者(Adaptee)，即被适配的类。
  *
  */
 public class Demo {

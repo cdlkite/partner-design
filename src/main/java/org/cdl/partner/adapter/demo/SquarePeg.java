@@ -1,4 +1,4 @@
-package org.cdl.partner.adapter;
+package org.cdl.partner.adapter.demo;
 
 /**
  * 方钉 差异化类，需要转换成标准类

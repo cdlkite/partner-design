@@ -1,4 +1,4 @@
-package org.cdl.partner.adapter;
+package org.cdl.partner.adapter.demo;
 
 /**
  * 让方顶适配成圆钉，以便能钉入圆孔
