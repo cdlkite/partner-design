@@ -5,3 +5,10 @@
 2. 然后设置 git 参数
 git config --global http.proxy http://127.0.0.1:1087
 git config --global https.proxy https://127.0.0.1:1087
+
+git config --global --unset http.proxy http://127.0.0.1:1087
+git config --global --unset https.proxy https://127.0.0.1:1087
+
+
+git config --global http.https://github.com.proxy http://127.0.0.1:1087
+git config --global https.https://github.com.proxy http://127.0.0.1:1087
