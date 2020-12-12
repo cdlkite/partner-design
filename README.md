@@ -9,6 +9,6 @@ git config --global https.proxy https://127.0.0.1:1087
 git config --global --unset http.proxy http://127.0.0.1:1087
 git config --global --unset https.proxy https://127.0.0.1:1087
 
--- 仅对 github 设置代理，不影响 gitlab
+仅对 github 设置代理，不影响 gitlab
 git config --global http.https://github.com.proxy http://127.0.0.1:1087
 git config --global https.https://github.com.proxy http://127.0.0.1:1087
